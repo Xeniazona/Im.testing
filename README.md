@@ -1,10 +1,13 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+   <body> 
+       
+   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Cute Gallery</title>
-    <style>
+    <title> My Cute Gallery </title>
+ <head/>
+  <body/>
+      <style>
         /* General Page Styling */
         body {
             font-family: Arial, sans-serif;
